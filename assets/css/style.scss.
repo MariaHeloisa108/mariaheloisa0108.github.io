@@ -1,3 +1,4 @@
+@import "{{ README.md }}";
 body {
     color: white;
     background: black;
